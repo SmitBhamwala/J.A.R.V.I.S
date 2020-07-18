@@ -29,3 +29,5 @@
 <li>Stores the data which you tell it to remember and tells you that stored data when you ask for<br></li>
 <li>Logout/Restart/Shutdown your system</li>
  </ul>
+<br>
+Will add more functions soon...
