@@ -16,7 +16,7 @@
 <li>pip install wikipedia<br></li>
 </ul>
 
-<h3>What can JARVIS do?<br></h3>
+<h3>What can J.A.R.V.I.S do?<br></h3>
 <ul>
 <li>Wish you at start</li>
 <li>Tells current time</li>
